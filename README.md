@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ArpitUP15
 - 👀 I’m interested in learning new technologies 
-- 🌱 I’m currently learning DSA using C++ language
+- 🌱 I’m currently learning Web Development 
 - 💞️ I’m looking to collaborate on LinkedIn 
-- 📫 How to reach me using my email
+- 📫 Reach out to me using my email
 - ⚡ Fun fact:  I excel at grabbing attention
 
 <!---
