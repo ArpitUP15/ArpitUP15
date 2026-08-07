@@ -13,9 +13,7 @@
 width="100%"
 src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,2,20,24&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20Open%20Source%20Contributor&descAlignY=60"
 />
-
-<br><br>
-
+<br>
 
 <h1 align="center">Hey there, I'm Arpit Bansal 👋</h1>
 
