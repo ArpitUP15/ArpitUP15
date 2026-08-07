@@ -6,14 +6,13 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:FF69B4&height=220&section=header&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:EF93C4&height=220&section=header&animation=fadeIn" />
   <img width="100%" alt="header banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:EF93C4&height=220&section=header&animation=fadeIn" />
 </picture>
 
 <h1 align="center">Hey there, I'm Arpit Bansal 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=60&lines=Aspiring+Software+Engineer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;B.Tech+CS+Student+%40+MIET;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=blue&center=true&vCenter=true&width=600&height=60&lines=Aspiring+Software+Engineer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;B.Tech+CS+Student+%40+MIET;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -68,7 +67,7 @@
 <h2 align="center">🔥 GitHub Streak &amp; Activity</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ArpitUP15&theme=dark&hide_border=true&background=00000000&ring=FF69B4&fire=EF93C4&currStreakLabel=F8BBD0" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=ArpitUP15&theme=dark&hide_border=true&background=00000000&ring=blue&fire=red&currStreakLabel=blue" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
@@ -135,22 +134,13 @@ jobs:
 <h2 align="center">🤝 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ArpitUP15" target="_blank">
+  <a href="https://linkedin.com/in/arpit-bansal-10a9b2282" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/ArpitUP15" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://instagram.com/ArpitUP15" target="_blank">
+  <a href="https://instagram.com/arpit_bansal1206" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://tiktok.com/@ArpitUP15" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
-  <a href="https://youtube.com/@ArpitUP15" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="mailto:arpitup15@gmail.com">
+  <a href="mailto:arpitbansal1975@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
