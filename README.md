@@ -3,11 +3,19 @@
   Replace "Arpit Bansal" (display name) and "ArpitUP15" (GitHub username,
   used in every widget/API URL below) with your own, everywhere they appear.
 -->
+<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:FF69B4&height=220&section=header&animation=fadeIn" />
-  <img width="100%" alt="header banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:EF93C4&height=220&section=header&animation=fadeIn" />
-</picture>
+<!-- ========================================================= -->
+<!--                        HERO BANNER                        -->
+<!-- ========================================================= -->
+
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,2,20,24&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20Open%20Source%20Contributor&descAlignY=60"
+/>
+
+<br><br>
+
 
 <h1 align="center">Hey there, I'm Arpit Bansal 👋</h1>
 
@@ -36,7 +44,7 @@
     <td width="65%" valign="middle">
       <ul>
         <li>🎓 B.Tech in Computer Science (AI &amp; ML) — Meerut Institute of Engineering and Technology (MIET), Class of 2027</li>
-        <li>💼 Actively looking for <b>Software Engineering</b> &amp; <b>AI/ML Internship / Trainee</b> roles</li>
+        <li>💼 Actively looking for great opportunities </li>
         <li>🛠️ Comfortable across the stack — from Python/ML pipelines to React front-ends</li>
         <li>🌱 Always shipping side projects to turn what I learn into something real</li>
         <li>📫 Let's connect — reach out through the links below</li>
@@ -53,7 +61,7 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,js,react,tailwind,html,css,tensorflow,sklearn,git,github,vscode&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,java,react,tailwind,html,css,js,mongodb,express,nodejs,tensorflow,sklearn,git,github,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
 <p align="center">
@@ -145,4 +153,4 @@ jobs:
   </a>
 </p>
 
-<img width="100%" alt="footer banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:FF69B4&height=150&section=footer" />
+<img width="100%" alt="footer banner" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,24&height=150&section=footer" />
