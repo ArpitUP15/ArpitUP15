@@ -99,7 +99,7 @@ src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient
 <h2 align="center">🤝 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/arpit-bansal-10a9b2282" target="_blank">
+  <a href="https://linkedin.com/in/arpit0612/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/arpit_bansal1206" target="_blank">
