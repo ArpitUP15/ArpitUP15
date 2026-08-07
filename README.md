@@ -1,187 +1,158 @@
-
-<!---
-ArpitUP15/ArpitUP15 is a ✨ special ✨ repository because its `README.md` (<!-- ========================================================= -->
-<!--                    GITHUB PROFILE README                  -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FF69B4,30:F8BBD0,70:EF93C4,100:FF69B4&text=Welcome%20to%20My%20GitHub&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=60">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FCE4EC,30:F8BBD0,70:EF93C4,100:FF69B4&text=Welcome%20to%20My%20GitHub&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=60">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FF69B4,30:F8BBD0,70:EF93C4,100:FF69B4&text=Welcome%20to%20My%20GitHub&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40">
-</picture>
-
-# Hey there, I'm **[ARPIT BANSAL]** 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack;AI+%26+Agentic+AI+Explorer;Open+Source+Contributor;Always+Learning+Something+New" alt="Typing SVG"/>
-
-<br>
-
-<img src="https://img.shields.io/github/followers/[ArpitUP15]?style=for-the-badge&logo=github&label=Followers&color=FF69B4&labelColor=1A1A1A"/>
-
-<img src="https://img.shields.io/github/stars/[ArpitUP15]?style=for-the-badge&logo=github&label=Stars&color=EF93C4&labelColor=1A1A1A"/>
-
-<img src="https://komarev.com/ghpvc/?username=[ArpitUP15]&style=for-the-badge&color=FF69B4"/>
-
-</div>
-
----
-
-# 💖 About Me
-
-<table>
-<tr>
-
-<td width="65%" valign="top">
-
-### 👨‍💻 Who Am I?
-
-✨ Passionate Full Stack Developer
-
-🚀 Building scalable MERN Stack applications
-
-🤖 Exploring AI, Agentic AI & Automation
-
-🌱 Currently learning advanced system design & cloud technologies
-
-💡 Love solving real-world problems using technology
-
-🎯 Goal: Build impactful software that helps millions
-
-⚡ Fun Fact: I enjoy transforming ideas into beautiful user experiences.
-
----
-
-### 📌 Current Focus
-
-- 🔥 Building production-ready applications
-- 🧠 Data Structures & Algorithms
-- ☁️ Cloud & DevOps
-- 🤖 AI Agents
-- 🌍 Open Source Contributions
-
-</td>
-
-<td width="35%" align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# 🚀 Tech Stack
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,firebase,tailwind,bootstrap,redux,python,java,c,git,github,docker,vscode,figma,postman,vercel,netlify&perline=8"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 📊 GitHub Analytics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=[ArpitUP15]&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ArpitUP15]&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=FF69B4&text_color=F8BBD0"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🔥 GitHub Streak
-
-<img src="https://streak-stats.demolab.com?user=[ArpitUP15]&theme=radical&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakLabel=EF93C4&currStreakNum=F8BBD0&sideNums=F8BBD0&sideLabels=EF93C4&dates=FFFFFF"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitUP15&theme=github-compact&bg_color=00000000&hide_border=true&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=EF93C4"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🐍 Contribution Snake
-
 <!--
-Enable using GitHub Actions:
-
-https://github.com/Platane/snk
-
-Then replace the image path below with your generated snake.svg
-
-Example:
-
-https://raw.githubusercontent.com/[ArpitUP15]/[ArpitUP15]/output/github-contribution-grid-snake.svg
+  README template for a GitHub profile repo.
+  Replace "Arpit Bansal" (display name) and "ArpitUP15" (GitHub username,
+  used in every widget/API URL below) with your own, everywhere they appear.
 -->
 
-<img src="https://raw.githubusercontent.com/ArpitUP15/ArpitUP15/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🌐 Connect With Me
-
-<a href="https://linkedin.com/in/[arpit-bansal-10a9b2282]">
-<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/[arpit_bansal1206]">
-<img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://youtube.com/@arpitbansal4908">
-<img src="https://img.shields.io/badge/YouTube-FF69B4?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="mailto:[arpitbansal1975@gmail.com]">
-<img src="https://img.shields.io/badge/Email-EF93C4?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-###  👨🏻‍💻 Thanks for visiting my profile! 
-
-*"Code. Create. Innovate. Repeat."*
-
-</div>
-
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:FF69B4,30:F8BBD0,70:EF93C4,100:FF69B4">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:FCE4EC,30:F8BBD0,70:EF93C4,100:FF69B4">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:FF69B4,30:F8BBD0,70:EF93C4,100:FF69B4">
---->
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:FF69B4&height=220&section=header&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:EF93C4&height=220&section=header&animation=fadeIn" />
+  <img width="100%" alt="header banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:EF93C4&height=220&section=header&animation=fadeIn" />
+</picture>
+
+<h1 align="center">Hey there, I'm Arpit Bansal 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=60&lines=Aspiring+Software+Engineer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;B.Tech+CS+Student+%40+MIET;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ArpitUP15?tab=followers">
+    <img src="https://img.shields.io/github/followers/ArpitUP15?label=Followers&style=for-the-badge&logo=github&color=0D91E1&labelColor=1A1B27" alt="Followers" />
+  </a>
+  <a href="https://github.com/ArpitUP15/ArpitUP15/stargazers">
+    <img src="https://img.shields.io/github/stars/ArpitUP15/ArpitUP15?label=Stars&style=for-the-badge&logo=github&color=0D91E1&labelColor=1A1B27" alt="Stars" />
+  </a>
+  <a href="https://github.com/ArpitUP15">
+    <img src="https://komarev.com/ghpvc/?username=ArpitUP15&style=for-the-badge&color=0D91E1&labelColor=1A1B27&label=Profile+Views" alt="Profile Views" />
+  </a>
+</p>
+
+<br>
+
+<h2 align="center">🚀 About Me</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="65%" valign="middle">
+      <ul>
+        <li>🎓 B.Tech in Computer Science (AI &amp; ML) — Meerut Institute of Engineering and Technology (MIET), Class of 2027</li>
+        <li>💼 Actively looking for <b>Software Engineering</b> &amp; <b>AI/ML Internship / Trainee</b> roles</li>
+        <li>🛠️ Comfortable across the stack — from Python/ML pipelines to React front-ends</li>
+        <li>🌱 Always shipping side projects to turn what I learn into something real</li>
+        <li>📫 Let's connect — reach out through the links below</li>
+      </ul>
+    </td>
+    <td width="35%" align="center">
+      <img src="https://github.com/ArpitUP15.png" width="85%" style="border-radius: 50%;" alt="Arpit Bansal" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,js,react,tailwind,html,css,tensorflow,sklearn,git,github,vscode&theme=dark" alt="Tech Stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+</p>
+
+<br>
+
+<h2 align="center">🔥 GitHub Streak &amp; Activity</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ArpitUP15&theme=dark&hide_border=true&background=00000000&ring=FF69B4&fire=EF93C4&currStreakLabel=F8BBD0" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitUP15&bg_color=00000000&color=F8BBD0&line=FF69B4&point=EF93C4&area=true&area_color=F8BBD0&title_color=FF69B4&hide_border=true" alt="GitHub Activity Graph" width="95%" />
+</p>
+
+<br>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArpitUP15/ArpitUP15/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArpitUP15/ArpitUP15/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ArpitUP15/ArpitUP15/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
+
+<!--
+  The snake above is generated by a scheduled GitHub Action and pushed to the
+  "output" branch of this repo — it will 404 until that workflow exists and
+  has run at least once. Add the file below at .github/workflows/snake.yml.
+-->
+
+<details>
+<summary align="center"><b>⚙️ GitHub Action setup — click to expand</b></summary>
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+<br>
+
+<h2 align="center">🤝 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ArpitUP15" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/ArpitUP15" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://instagram.com/ArpitUP15" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://tiktok.com/@ArpitUP15" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="https://youtube.com/@ArpitUP15" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="mailto:arpitup15@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<img width="100%" alt="footer banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:FF69B4&height=150&section=footer" />
