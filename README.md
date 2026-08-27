@@ -70,16 +70,29 @@ src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient
 
 <br>
 
-<h2 align="center">🔥 GitHub Streak &amp; Activity</h2>
+<!-- GitHub Streak & Activity -->
+
+<h2 align="center">
+  🔥 GitHub Streak & Activity
+</h2>
+
+<br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ArpitUP15&theme=dark&hide_border=true&background=00000000&ring=blue&fire=red&currStreakLabel=blue" alt="GitHub Streak Stats" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ArpitUP15&theme=github-dark-blue&hide_border=true"
+    alt="ArpitUP15 GitHub Streak"
+  />
 </p>
+
+<br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitUP15&bg_color=00000000&color=F8BBD0&line=FF69B4&point=EF93C4&area=true&area_color=F8BBD0&title_color=FF69B4&hide_border=true" alt="GitHub Activity Graph" width="95%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitUP15&bg_color=0D1117&color=3B82F6&line=2563EB&point=60A5FA&area=true&hide_border=true"
+    alt="ArpitUP15 GitHub Activity Graph"
+  />
 </p>
-
 <br>
 
 <h2 align="center">🐍 Contribution Snake</h2>
