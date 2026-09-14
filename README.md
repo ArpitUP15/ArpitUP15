@@ -85,16 +85,6 @@ src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient
   />
 </p>
 
-<br>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitUP15&bg_color=0D1117&color=3B82F6&line=2563EB&point=60A5FA&area=true&hide_border=true"
-    alt="ArpitUP15 GitHub Activity Graph"
-  />
-</p>
-<br>
-
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <picture>
